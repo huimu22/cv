@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+h1 {
+  /* color: #0093c4; */
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+h2 {
+  color: #4ba2c6;
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  /* color: #4fc3f7; */
+}
+
+hr {
+  border: dotted #e1f5fe 10px;
+  border-bottom: none;
+  width: 6%;
+}
+
+.top-container {
+  /* background-color: #e1f5fe; */
+  background-color: #e6ffff;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.profile-particulars {
+  /* padding: 40px; */
+  text-align: left;
+  /* width: 60%; */
+  margin: auto;
+}
+
+.profile {
+  width: 60%;
+}
+
+.middle-container {
+  padding: 5% 20%;
+  text-align: left;
+}
+
+.chinese-row {
+  padding-bottom: 10%;
+}
+
+.chinese {
+  width: 60%;
+}
+
+.teacher-row {
+  padding-bottom: 10%;
+}
+
+.teacher {
+  width: 60%;
+}
+
+.teaching-awards {
+  padding: 50px;
+  text-align: center;
+}
+
+.awards-container {
+  padding-bottom: 10%;
+}
+
+
+.trophy {
+  width: 60%;
+  /* margin-right: 50px; */
+}
+
+.contact {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.button {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  padding: 20px;
+  background-color: #4ba2c6;
+  display: inline-block;
+  text-align: center;
+  /* font-weight: bold; */
+  text-decoration: none; /* used to remove auto-browser hyperlink underline */
+  margin: 15px;
+}
+
+.button:hover {
+  background: #81d4fa;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #81d4fa;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footnote {
+  color: white;
+  font-size: 0.9rem;
+  margin: 20px;
+}
+
+.contact-container {
+  padding: 50px;
+  text-align: left;
+}
+
+.contact-info-page {
+  line-height: 1;
+  font-size: 1.2rem;
+}
